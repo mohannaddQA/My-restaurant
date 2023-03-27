@@ -2,8 +2,8 @@
 
 ## this is the scetch
 
-![scetch](img/SC.png)
+![scetch](img/nsc.png)
 
 ## this is the wireframe
 
-![wireframe](img/WF.png)
+![wireframe](img/nwf.png)
